@@ -9,5 +9,5 @@ Ce script permet de télécharger et installer le fichier .ft_lock depuis le dé
 2. Exécutez la commande suivante pour télécharger le script d'installation :
    
   ```
-   curl -o install_ft_lock.sh https://raw.githubusercontent.com/Nkipohcs/.ft_lock/main/install.sh && chmod +x install_ft_lock.sh && ./install_ft_lock.sh
+   curl -o installer.sh https://raw.githubusercontent.com/Nkipohcs/.ft_lock/main/install.sh && chmod +x install_ft_lock.sh && ./install_ft_lock.sh
   ```
