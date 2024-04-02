@@ -10,8 +10,8 @@ if [ -f "$HOME/.zshrc" ]; then
 fi
 
 
-if ! grep -q "alias ft__lock='sh ~/.ft_lock'" "$SHELL_RC"; then
-    echo "alias ft__lock='sh ~/.ft_lock'" >> "$SHELL_RC"
+if ! grep -q "alias ft__lock='sh ~/.ft__lock'" "$SHELL_RC"; then
+    echo "alias ft__lock='sh ~/.ft__lock'" >> "$SHELL_RC"
     echo "Alias ft__lock ajouté à $SHELL_RC"
 else
     echo "L'alias ft__lock est déjà présent dans $SHELL_RC"
