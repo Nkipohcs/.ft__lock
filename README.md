@@ -1,4 +1,4 @@
-# Installation de ft_lock
+# Installation de ft__lock
 
 Ce script permet de télécharger et installer le fichier .ft_lock depuis le dépôt GitHub et d'ajouter un alias `ft__lock` à votre fichier de configuration du shell.
 
