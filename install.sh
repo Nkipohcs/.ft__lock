@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wget https://raw.githubusercontent.com/Nkipohcs/.ft__lock/main/ft__lock -O ~/.ft__lock
+wget https://raw.githubusercontent.com/Nkipohcs/.ft__lock/main/.ft__lock -O ~/.ft__lock
 
 chmod +x ~/.ft__lock
 
