@@ -11,3 +11,5 @@ Ce script permet de télécharger et installer le fichier .ft_lock depuis le dé
   ```
    curl -o install.sh https://raw.githubusercontent.com/Nkipohcs/.ft__lock/main/install.sh && chmod +x install.sh && ./install.sh
   ```
+
+Access to this script is restricted. Thank you for using it wisely, as great power comes with great responsibility. 🙏
